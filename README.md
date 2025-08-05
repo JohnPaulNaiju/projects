@@ -2,25 +2,25 @@
 
 <h1>Projects 🔬</h1>
 
-### 1) **Wytty** 
+### 1) **Wytty 💬** 
 
 * Community based social networking app.
 
 * [See here](https://github.com/JohnPaulNaiju/wytty)
 
-### 2) **4note**
+### 2) **4note 📝**
 
 * AI note taking application.
 
 * [See here](https://github.com/JohnPaulNaiju/4note)
 
-### 3) **AI Receptionist:**
+### 3) **AI Receptionist 🤖**
 
 * AI receptionist and AI hotel services (booking etc.) app.
 
 *  [See here](https://github.com/JohnPaulNaiju/AI-Receptionist)
 
-### 4) **Animal Detection**
+### 4) **Animal Detection 🦁**
 
 * Animal Detection in python using YoLo.
 
@@ -28,7 +28,7 @@
 
 <h1></h1>
 
-### Undocumented projects:
+### 😪 Undocumented projects:
 
 - Whatsapp clone
 - Flappy bird
@@ -44,7 +44,7 @@
 
 <h1></h1>
 
-### Freelance works that I have done (these projects are private repo)
+### 🧑‍💻 Freelance works that I have done (these projects are private repo)
 
 1. CMS website for a school
 2. CMS website for a tour company
