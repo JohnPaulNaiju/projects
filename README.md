@@ -1,4 +1,5 @@
-<h1><img src="https://giffiles.alphacoders.com/222/222343.gif" alt="wave" width="100"/>Projects</h1>
+<img src="https://giffiles.alphacoders.com/222/222343.gif" alt="wave" width="auto" height="auto"/>
+<h1>Projects</h1>
 
 ### 1) **Wytty** 
 
