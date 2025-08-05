@@ -22,6 +22,13 @@
 
 * DIY low cost solder fume extractor with activated carbon filter. [See here](https://github.com/JohnPaulNaiju/Solder-Fume-Extractor)
 
+### 6) Procastination App
+
+* App created in Google dev hackathon to fight procastination.
+* [See here](https://github.com/JohnPaulNaiju/achievements)
+* [See here](https://github.com/JohnPaulNaiju/achievements/blob/main/certificates/John%20Paul%20Naiju.pdf)
+* [See here](https://github.com/ecoholic84/nividaCorps)
+
 <h1></h1>
 
 ### 😪 Undocumented projects:
