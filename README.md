@@ -1,5 +1,6 @@
-<img src="https://giffiles.alphacoders.com/222/222343.gif" alt="wave" width="auto" height="auto"/>
-<h1>Projects</h1>
+![222343](https://github.com/user-attachments/assets/ddf8e988-2614-4239-9c2a-947cd451aba1)
+
+<h1>Projects 🔬</h1>
 
 ### 1) **Wytty** 
 
