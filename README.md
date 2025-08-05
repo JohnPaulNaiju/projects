@@ -43,6 +43,7 @@
 - Chat apps
 - RC cars
 - Pomodoro timer app
+- Bot for attending my online class
 - etc
 
 <h1></h1>
