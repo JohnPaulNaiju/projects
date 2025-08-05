@@ -18,6 +18,10 @@
 
 * Animal Detection in python using YoLo. [See here](https://github.com/JohnPaulNaiju/Animal-Detection)
 
+### 5) Solder Fume Extractor
+
+* DIY low cost solder fume extractor with activated carbon filter. [See here](https://github.com/JohnPaulNaiju/Solder-Fume-Extractor)
+
 <h1></h1>
 
 ### 😪 Undocumented projects:
