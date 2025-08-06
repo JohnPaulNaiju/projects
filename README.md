@@ -1,4 +1,4 @@
-![222343](https://github.com/user-attachments/assets/ddf8e988-2614-4239-9c2a-947cd451aba1)
+<img src="https://github.com/user-attachments/assets/ddf8e988-2614-4239-9c2a-947cd451aba1" alt="wave" width="100%" height="auto" />
 
 <h1>Projects 🔬</h1>
 
