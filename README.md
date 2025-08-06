@@ -29,6 +29,11 @@
 * [See here](https://github.com/JohnPaulNaiju/achievements/blob/main/certificates/John%20Paul%20Naiju.pdf)
 * [See here](https://github.com/ecoholic84/nividaCorps)
 
+### 7) Electronics Mini Projects
+
+* Numerous electronics projects I did in the past
+* [See here](https://github.com/JohnPaulNaiju/Electronics-Mini-Projects/tree/main)
+
 <h1></h1>
 
 ### 😪 Undocumented projects:
