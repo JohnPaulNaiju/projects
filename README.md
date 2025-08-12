@@ -29,9 +29,9 @@
 * [See here](https://github.com/JohnPaulNaiju/achievements/blob/main/certificates/John%20Paul%20Naiju.pdf)
 * [See here](https://github.com/ecoholic84/nividaCorps)
 
-### 7) Electronics Mini Projects
+### 7) Mini Electronics and Logic Circuit Design
 
-* Numerous electronics projects I did in the past
+* Electronics projects of simple circuits and logic systems.
 * [See here](https://github.com/JohnPaulNaiju/Electronics-Mini-Projects/tree/main)
 
 <h1></h1>
