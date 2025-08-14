@@ -34,6 +34,10 @@
 * Electronics projects of simple circuits and logic systems.
 * [See here](https://github.com/JohnPaulNaiju/Electronics-Mini-Projects/tree/main)
 
+### 8) Web Server from scratch using C
+
+* [See here](https://github.com/JohnPaulNaiju/Web-Server)
+
 <h1></h1>
 
 ### 😪 Undocumented projects:
