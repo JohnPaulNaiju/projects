@@ -5,10 +5,12 @@
 ### 1) **Wytty 💬** 
 
 * Community based social networking app. [See here](https://github.com/JohnPaulNaiju/wytty)
+* [Achievements](https://github.com/JohnPaulNaiju/achievements/blob/main/certificates/JOHN%20PAUL%20NAIJU(1).jpg)
 
 ### 2) **4note 📝**
 
 * AI note taking application. [See here](https://github.com/JohnPaulNaiju/4note)
+* [Achievements](https://github.com/JohnPaulNaiju/achievements/blob/main/certificates/ideafest.pdf)
 
 ### 3) **AI Receptionist 🤖**
 
@@ -25,16 +27,15 @@
 ### 6) Procastination App
 
 * App created in Google dev hackathon to fight procastination.
-* [See here](https://github.com/JohnPaulNaiju/achievements)
-* [See here](https://github.com/JohnPaulNaiju/achievements/blob/main/certificates/John%20Paul%20Naiju.pdf)
 * [See here](https://github.com/ecoholic84/nividaCorps)
+* [Achievements](https://github.com/JohnPaulNaiju/achievements/blob/main/certificates/John%20Paul%20Naiju.pdf)
 
 ### 7) Mini Electronics and Logic Circuit Design
 
 * Electronics projects of simple circuits and logic systems.
 * [See here](https://github.com/JohnPaulNaiju/Electronics-Mini-Projects/tree/main)
 
-### 8) Web Server from scratch using C
+### 8) Web Server from scratch in C
 
 * [See here](https://github.com/JohnPaulNaiju/Web-Server)
 
