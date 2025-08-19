@@ -33,7 +33,7 @@
 ### 7) Mini Electronics and Logic Circuit Design
 
 * Electronics projects of simple circuits and logic systems.
-* [See here](https://github.com/JohnPaulNaiju/Electronics-Mini-Projects/tree/main)
+* [See here](https://github.com/JohnPaulNaiju/Electronics-Mini-Projects)
 
 ### 8) Web Server from scratch in C
 
