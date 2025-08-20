@@ -39,6 +39,10 @@
 
 * [See here](https://github.com/JohnPaulNaiju/Web-Server)
 
+### 9) JPEG compression alogrithm from scratch in C++
+
+* [See here](https://github.com/JohnPaulNaiju/jpeg)
+
 <h1></h1>
 
 ### 😪 Undocumented projects:
