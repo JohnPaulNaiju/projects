@@ -43,6 +43,10 @@
 
 * [See here](https://github.com/JohnPaulNaiju/jpeg)
 
+### 10) Digit classification from scratch in C++
+
+* [See here](https://github.com/JohnPaulNaiju/Digit-classification)
+
 <h1></h1>
 
 ### 😪 Undocumented projects:
