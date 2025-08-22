@@ -10,7 +10,7 @@
 Click on project title to reveal!
 
 <details style="margin-bottom: 0px !important;">
-  <summary><h3 style="display: inline; margin: 0;>1) Wytty 💬</h3></summary>
+  <summary><h3>1) Wytty 💬</h3></summary>
     <ul>
       <li>A community based social networking app.</li>
       <li><b>Categories: </b>Mobile apps, AI, Website, UI/UX</li>
@@ -21,7 +21,7 @@ Click on project title to reveal!
 </details>
 
 <details style="margin-bottom: 0px !important; margin-top: 0px !important;">
-  <summary><h3 style="display: inline; margin: 0;>2) 4note 📝</h3></summary>
+  <summary><h3>2) 4note 📝</h3></summary>
     <ul>
       <li>AI note taking app with realtime transcription with listen to lecture mode.</li>
       <li><b>Categories: </b>Mobile apps, AI, UI/UX</li>
