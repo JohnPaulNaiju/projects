@@ -6,7 +6,7 @@
 > <br/>                    -- Tony Stark
 
 <details>
-  <summary><h6>1) Wytty 💬</h6></summary>
+  <summary><h3>1) Wytty 💬</h6></summary>
     <ul>
       <li>A community based social networking app.</li>
       <li><b>Categories: </b>Mobile apps, AI, Website, UI/UX</li>
@@ -17,7 +17,7 @@
 </details>
 
 <details>
-  <summary><h6>2) 4note 📝</h6></summary>
+  <summary><h3>2) 4note 📝</h6></summary>
     <ul>
       <li>AI note taking app with realtime transcription with listen to lecture mode.</li>
       <li><b>Categories: </b>Mobile apps, AI, UI/UX</li>
