@@ -2,8 +2,9 @@
 
 <h1>Projects 🔬</h1>
 
-> ❛Everybody needs a hobby❜
-> <br/>                    -- Tony Stark
+> Everybody needs a hobby.
+>
+> — *Tony Stark*
 
 <details>
   <summary><h3>1) Wytty 💬</h6></summary>
