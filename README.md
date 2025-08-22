@@ -73,15 +73,15 @@
 * Digit classification program from scratch in C++.
 * **Categories**: Machine learning, mathematics, low level programming
 * **Tech stack & tools**: C++, VS code
-* [See here](https://github.com/JohnPaulNaiju/Digit-classification)
+* [See code](https://github.com/JohnPaulNaiju/Digit-classification)
 
 <details>
-  <summary><h1>10) Digit classification</h1></summary>
+  <summary><h3>10) Digit classification</h3></summary>
     <ul>
       <li>Digit classification program from scratch in C++.</li>
       <li><b>Categories:</b> Machine learning, mathematics, low level programming</li>
       <li><b>Tech stack & tools:</b> C++, VS code</li>
-      <li>[See here](https://github.com/JohnPaulNaiju/Digit-classification)</li>
+      <li><a href="https://github.com/JohnPaulNaiju/Digit-classification">See code</a></li>
     </ul>
 </details>
 
