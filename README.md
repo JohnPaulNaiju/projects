@@ -10,7 +10,7 @@
 Click on project title to reveal!
 
 <details>
-  <summary><h3>1) Wytty 💬</h3></summary>
+  <summary><h3 style="margin-bottom: 0px !important;">1) Wytty 💬</h3></summary>
     <ul>
       <li>A community based social networking app.</li>
       <li><b>Categories: </b>Mobile apps, AI, Website, UI/UX</li>
