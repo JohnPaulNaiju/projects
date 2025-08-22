@@ -6,6 +6,8 @@
 >
 > — *Tony Stark*
 
+Click on project title to reveal!
+
 <details>
   <summary><h3>1) Wytty 💬</h6></summary>
     <ul>
