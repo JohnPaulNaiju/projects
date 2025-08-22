@@ -20,7 +20,7 @@ Click on project title to reveal!
     </ul>
 </details>
 
-<details>
+<details style="margin-bottom: 0px; margin-top: 0px;">
   <summary><h3>2) 4note 📝</h6></summary>
     <ul>
       <li>AI note taking app with realtime transcription with listen to lecture mode.</li>
