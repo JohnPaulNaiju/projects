@@ -9,7 +9,7 @@
 <br/>
 Click on project title to reveal!
 
-<details style="margin-bottom: 0px;">
+<details style="margin-bottom: 0px !important;">
   <summary><h3>1) Wytty 💬</h6></summary>
     <ul>
       <li>A community based social networking app.</li>
@@ -20,7 +20,7 @@ Click on project title to reveal!
     </ul>
 </details>
 
-<details style="margin-bottom: 0px; margin-top: 0px;">
+<details style="margin-bottom: 0px !important; margin-top: 0px !important;">
   <summary><h3>2) 4note 📝</h6></summary>
     <ul>
       <li>AI note taking app with realtime transcription with listen to lecture mode.</li>
