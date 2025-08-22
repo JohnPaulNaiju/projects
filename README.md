@@ -15,7 +15,6 @@
       <li><a href="https://github.com/JohnPaulNaiju/achievements/blob/main/certificates/JOHN%20PAUL%20NAIJU(1).jpg">See achievements</a></li>
     </ul>
 </details>
-
 <details>
   <summary><h3>2) 4note 📝</h3></summary>
     <ul>
