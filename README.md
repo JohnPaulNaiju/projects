@@ -2,7 +2,7 @@
 
 <h1>Projects 🔬</h1>
 
-> Everybody needs a hobby.
+> Everybody needs a hobby ✨
 >
 > — *Tony Stark*
 
